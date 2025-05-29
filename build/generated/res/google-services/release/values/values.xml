@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">415944084439</string>
+    <string name="google_api_key" translatable="false">AIzaSyCP2By1RR0_GiGDU-de1T1uRZr-2DTxomg</string>
+    <string name="google_app_id" translatable="false">1:415944084439:android:fab447bf8bd0fe7502d992</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCP2By1RR0_GiGDU-de1T1uRZr-2DTxomg</string>
+    <string name="google_storage_bucket" translatable="false">hajj-6716e.firebasestorage.app</string>
+    <string name="project_id" translatable="false">hajj-6716e</string>
+</resources>
