@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415944084439",
+    "project_id": "hajj-6716e",
+    "storage_bucket": "hajj-6716e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415944084439:android:fab447bf8bd0fe7502d992",
+        "android_client_info": {
+          "package_name": "com.example.hajj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP2By1RR0_GiGDU-de1T1uRZr-2DTxomg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
